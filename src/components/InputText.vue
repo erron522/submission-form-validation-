@@ -11,7 +11,7 @@
       @change="handleChange"
       @blur="handleBlur"
     />
-    <span>{{ errorMessage }}</span>
+    <span class="inputErrors">{{ errorMessage }}</span>
   </div>
 </template>
 

@@ -192,6 +192,10 @@ select {
   margin: 5px 0 0 0;
 }
 
+span.inputErrors {
+  color: red;
+}
+
 .firstName.topSectionInputs div input[type='text'],
 .lastName.topSectionInputs div input[type='text'],
 .phoneNumber.topSectionInputs div input[type='text'],
